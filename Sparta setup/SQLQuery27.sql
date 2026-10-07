@@ -1,0 +1,4 @@
+USE Sparta
+GO
+ALTER TABLE [Course Table]
+ALTER COLUMN Course_Name VARCHAR(50) NOT NULL;
